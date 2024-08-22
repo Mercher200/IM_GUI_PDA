@@ -1,0 +1,74 @@
+﻿  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  imgui_impl_glfw.cpp
+  imgui_impl_vulkan.cpp
+  main.cpp
+E:\GUI_Test_PDA\MyApplication\examples\example_glfw_vulkan\main.cpp(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x57c8, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+E:\GUI_Test_PDA\MyApplication\examples\example_glfw_vulkan\main.cpp(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x57ca, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+E:\GUI_Test_PDA\MyApplication\examples\example_glfw_vulkan\main.cpp(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x57cd, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+E:\GUI_Test_PDA\MyApplication\examples\example_glfw_vulkan\main.cpp(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x57d1, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+E:\GUI_Test_PDA\MyApplication\examples\example_glfw_vulkan\main.cpp(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x57d4, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+E:\GUI_Test_PDA\MyApplication\examples\example_glfw_vulkan\main.cpp(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x57d7, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+E:\GUI_Test_PDA\MyApplication\examples\example_glfw_vulkan\main.cpp(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x57db, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+E:\GUI_Test_PDA\MyApplication\examples\example_glfw_vulkan\main.cpp(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x57de, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+E:\GUI_Test_PDA\MyApplication\examples\example_glfw_vulkan\main.cpp(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x57e1, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+E:\GUI_Test_PDA\MyApplication\examples\example_glfw_vulkan\main.cpp(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x57e4, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+E:\GUI_Test_PDA\MyApplication\examples\example_glfw_vulkan\main.cpp(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x57e7, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+E:\GUI_Test_PDA\MyApplication\examples\example_glfw_vulkan\main.cpp(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x57eb, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,1): warning C4005: APIENTRY: изменение макроопределения
+  (компиляция исходного файла "main.cpp")
+  E:\GUI_Test_PDA\MyApplication\examples\libs\glfw\include\GLFW\glfw3.h(98,1):
+  см. предыдущее определение "APIENTRY"
+  
+E:\GUI_Test_PDA\MyApplication\examples\example_glfw_vulkan\main.cpp(628,14): error C2731: WinMain: функция не может быть перегружена
+  E:\GUI_Test_PDA\MyApplication\examples\example_glfw_vulkan\main.cpp(628,14):
+   см. объявление "WinMain"
+  
+  MyApp_cpp.cpp
+E:\GUI_Test_PDA\MyApplication\examples\example_glfw_vulkan\MyApp_cpp.cpp(62,27): warning C4456: объявление "show_inner_window1_1" скрывает предыдущее локальное объявление
+  E:\GUI_Test_PDA\MyApplication\examples\example_glfw_vulkan\MyApp_cpp.cpp(20,21):
+   см. объявление "show_inner_window1_1"
+  
+E:\GUI_Test_PDA\MyApplication\examples\example_glfw_vulkan\MyApp_cpp.cpp(63,27): warning C4456: объявление "show_inner_window1_2" скрывает предыдущее локальное объявление
+  E:\GUI_Test_PDA\MyApplication\examples\example_glfw_vulkan\MyApp_cpp.cpp(21,21):
+   см. объявление "show_inner_window1_2"
+  
+E:\GUI_Test_PDA\MyApplication\examples\example_glfw_vulkan\MyApp_cpp.cpp(64,27): warning C4456: объявление "show_inner_window1_3" скрывает предыдущее локальное объявление
+  E:\GUI_Test_PDA\MyApplication\examples\example_glfw_vulkan\MyApp_cpp.cpp(22,21):
+   см. объявление "show_inner_window1_3"
+  
+E:\GUI_Test_PDA\MyApplication\examples\example_glfw_vulkan\MyApp_cpp.cpp(86,49): warning C4244: =: преобразование "size_t" в "float", возможна потеря данных
+E:\GUI_Test_PDA\MyApplication\examples\example_glfw_vulkan\MyApp_cpp.cpp(100,93): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\GUI_Test_PDA\MyApplication\examples\example_glfw_vulkan\MyApp_cpp.cpp(100,75): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\GUI_Test_PDA\MyApplication\examples\example_glfw_vulkan\MyApp_cpp.cpp(111,49): warning C4244: =: преобразование "size_t" в "float", возможна потеря данных
+E:\GUI_Test_PDA\MyApplication\examples\example_glfw_vulkan\MyApp_cpp.cpp(159,26): warning C4456: объявление "show_inner_window2_1" скрывает предыдущее локальное объявление
+  E:\GUI_Test_PDA\MyApplication\examples\example_glfw_vulkan\MyApp_cpp.cpp(25,21):
+   см. объявление "show_inner_window2_1"
+  
+E:\GUI_Test_PDA\MyApplication\examples\example_glfw_vulkan\MyApp_cpp.cpp(160,26): warning C4456: объявление "show_inner_window2_2" скрывает предыдущее локальное объявление
+  E:\GUI_Test_PDA\MyApplication\examples\example_glfw_vulkan\MyApp_cpp.cpp(26,21):
+   см. объявление "show_inner_window2_2"
+  
+E:\GUI_Test_PDA\MyApplication\examples\example_glfw_vulkan\MyApp_cpp.cpp(161,26): warning C4456: объявление "show_inner_window2_3" скрывает предыдущее локальное объявление
+  E:\GUI_Test_PDA\MyApplication\examples\example_glfw_vulkan\MyApp_cpp.cpp(27,21):
+   см. объявление "show_inner_window2_3"
+  
+E:\GUI_Test_PDA\MyApplication\examples\example_glfw_vulkan\MyApp_cpp.cpp(209,25): warning C4456: объявление "i" скрывает предыдущее локальное объявление
+  E:\GUI_Test_PDA\MyApplication\examples\example_glfw_vulkan\MyApp_cpp.cpp(32,20):
+   см. объявление "i"
+  
+E:\GUI_Test_PDA\MyApplication\examples\example_glfw_vulkan\MyApp_cpp.cpp(214,31): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+E:\GUI_Test_PDA\MyApplication\examples\example_glfw_vulkan\MyApp_cpp.cpp(216,36): warning C4456: объявление "i" скрывает предыдущее локальное объявление
+  E:\GUI_Test_PDA\MyApplication\examples\example_glfw_vulkan\MyApp_cpp.cpp(209,25):
+   см. объявление "i"
+  
+E:\GUI_Test_PDA\MyApplication\examples\example_glfw_vulkan\MyApp_cpp.cpp(228,28): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+E:\GUI_Test_PDA\MyApplication\examples\example_glfw_vulkan\MyApp_cpp.cpp(230,29): warning C4456: объявление "i" скрывает предыдущее локальное объявление
+  E:\GUI_Test_PDA\MyApplication\examples\example_glfw_vulkan\MyApp_cpp.cpp(32,20):
+   см. объявление "i"
+  
+E:\GUI_Test_PDA\MyApplication\examples\example_glfw_vulkan\MyApp_cpp.cpp(37,15): warning C4189: button_spacing: локальная переменная инициализирована, но не использована
+  Создание кода...
